@@ -40,6 +40,6 @@ Once deleted, your data cannot be recovered.
 If you have any trouble managing or deleting your data, please reach out to us at contact@apnealab.app, 
 and we'll be glad to assist you.
 
-Please review our [Privacy Policy](https://poexte.github.io/apnealab-privacy/policy) for a complete understanding of our data practices.
+Please review our [Privacy Policy](https://apnealab.github.io/apnealab-docs/privacy) for a complete understanding of our data practices.
 
 **May 2023**
